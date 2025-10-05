@@ -32,7 +32,7 @@ Before running this application, make sure you have the following installed:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/todo_app.git
+git clone https://github.com/Noviceuser001/todo_app.git
 cd todo_app
 ```
 
