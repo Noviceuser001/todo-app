@@ -164,3 +164,21 @@ Project Link: [https://github.com/Novice_user001/todo_app](https://github.com/No
 - MongoDB for the database
 - EJS for templating
 - Moment.js for date formatting
+
+## Testing
+
+There is a small test suite covering the health endpoint. To run tests locally:
+
+```bash
+npm install
+npm test
+```
+
+## .env example
+
+Copy `.env.example` to `.env` and update values if needed:
+
+```bash
+cp .env.example .env
+```
+
